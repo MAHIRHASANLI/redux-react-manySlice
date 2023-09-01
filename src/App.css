@@ -1,0 +1,37 @@
+.formCource {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.formCource button {
+  margin: 20px auto;
+  display: block;
+}
+
+.courseList {
+  padding: 50px;
+}
+
+.courseItem {
+  border: 1px solid #dbdbdb;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  margin: 40px;
+}
+
+.courseSearch {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.courseSearch input {
+  width: 200px;
+}
+
+.courseValue {
+  text-align: center;
+}
